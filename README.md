@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a 26 yo student at TAU, enrolling a BS.c in CS.<br>Currently taking a full stack Web Development course<br>at Udemy, getting skills at practical applications.<br>Looking for my next role, continuing to learn new technologies
+I am a 26 yo graduate from TAU, with a BS.c in CS.<br>Looking for my next role, continuing to learn new technologies
 
 
 ## 🌐 Socials:

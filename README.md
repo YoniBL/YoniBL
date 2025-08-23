@@ -1,5 +1,5 @@
-# 💫 About Me:
-I am a 26 yo graduate from TAU, with a BS.c in CS.<br>Looking for my next role, continuing to learn new technologies
+# About Me:
+Computer Science graduate @Tel-Aviv University.<br>Looking for my next role, continuing to learn new technologies
 
 
 ## 🌐 Socials:
